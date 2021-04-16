@@ -8,5 +8,5 @@
 You can copy one of link addresses below as a resource url to add in your [TabHub](https://tabhub.io) settings:
 
 
- - [BitBucket-CheetSheet](https://raw.githubusercontent.com/gitx-io/git-cheatsheet-card/main/BitBucket-CheetSheet/manifest.json)
- - [GitHub-CheetSheet](https://raw.githubusercontent.com/gitx-io/git-cheatsheet-card/main/GitHub-CheetSheet/manifest.json)
+ - [BitBucket-CheetSheet](https://raw.githubusercontent.com/gitx-io/git-cheatsheet-card/imgbot/BitBucket-CheetSheet/manifest.json)
+ - [GitHub-CheetSheet](https://raw.githubusercontent.com/gitx-io/git-cheatsheet-card/imgbot/GitHub-CheetSheet/manifest.json)
